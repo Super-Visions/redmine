@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 gem "rails", "3.2.19"
-gem "i18n", "0.6.4"
+gem "i18n", "0.6.6"
 gem "jquery-rails", "~> 3.1.1"
 gem "coderay", "~> 1.1.0"
 gem "fastercsv", "~> 1.5.0", :platforms => [:mri_18, :mingw_18, :jruby]
